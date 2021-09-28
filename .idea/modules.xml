@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" filepath="$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FloatAndDoubls/FloatAndDoubls.iml" filepath="$PROJECT_DIR$/FloatAndDoubls/FloatAndDoubls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Course.iml" filepath="$PROJECT_DIR$/.idea/Java Course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeywordAndExpressions/KeywordAndExpressions.iml" filepath="$PROJECT_DIR$/KeywordAndExpressions/KeywordAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MegaBytesConverter/MegaBytesConverter.iml" filepath="$PROJECT_DIR$/MegaBytesConverter/MegaBytesConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodChallenge/MethodChallenge.iml" filepath="$PROJECT_DIR$/MethodChallenge/MethodChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimitiveTypeChallenges/PrimitiveTypeChallenges.iml" filepath="$PROJECT_DIR$/PrimitiveTypeChallenges/PrimitiveTypeChallenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SampleCodingExercises/SampleCodingExercises.iml" filepath="$PROJECT_DIR$/SampleCodingExercises/SampleCodingExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" filepath="$PROJECT_DIR$/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpeedConvertor/SpeedConvertor.iml" filepath="$PROJECT_DIR$/SpeedConvertor/SpeedConvertor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+    </modules>
+  </component>
+</project>
